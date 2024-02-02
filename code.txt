@@ -1,0 +1,5 @@
+<div class="h-full px-0 pt-16 rounded-lg overflow-hidden text-center relative">
+          <img src="/dist/img/shoes2.png" >
+          <h1 class="title-font sm:text-2xl text-xl font-medium text-white mb-3 -mt-20">Nike Hurachi Run<br>
+          <span class="text-3xl font-bold">30$</span></h1>        
+        </div>
